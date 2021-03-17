@@ -42,8 +42,8 @@ CREATE TABLE `registrationinfo` (
 --
 
 INSERT INTO `registrationinfo` (`Name`, `Email`, `User_Name`, `Password`, `Confirm_Password`, `Gender`, `Date_OfBirth`) VALUES
-('Tanusree Roy', 'tanusree@gmail.com', 'fdhbsg1', 'abcd1234#', 'abcd1234#', 'Female', '1999-01-11'),
-('Tamatama', 'tama@gmail.com', 'Tama12045', 'abc12345#', 'abc12345#', 'Female', '2021-03-24');
+('Shehran', 'shehran@gmail.com', 'fdhbsg1', 'abcd1234#', 'abcd1234#', 'male', '1999-01-11'),
+('Tamatama', 'tama@gmail.com', 'Tama12045', 'abc12345#', 'abc12345#', 'male', '2021-03-24');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
